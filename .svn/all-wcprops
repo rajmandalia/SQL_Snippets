@@ -1,0 +1,563 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets
+END
+MonthlyJobReport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/MonthlyJobReport.sql
+END
+Job Notification.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Job%20Notification.sql
+END
+Dependancies.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Dependancies.sql
+END
+Script Role Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Script%20Role%20Permissions.sql
+END
+Delete Maintenance Plan Manually.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Delete%20Maintenance%20Plan%20Manually.sql
+END
+Script Backup All.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Script%20Backup%20All.sql
+END
+Kill All.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Kill%20All.sql
+END
+Extract Role Security.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Extract%20Role%20Security.sql
+END
+AriesArchive_Standard.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/AriesArchive_Standard.sql
+END
+db_executor role.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/db_executor%20role.sql
+END
+CLR_Enable.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/CLR_Enable.sql
+END
+List file info.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/List%20file%20info.sql
+END
+Server Uptime.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Server%20Uptime.sql
+END
+Numeric to Sized string.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Numeric%20to%20Sized%20string.sql
+END
+Linked Server.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Linked%20Server.sql
+END
+Script Logins and User Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Script%20Logins%20and%20User%20Permissions.sql
+END
+OpLog Error Handling.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/OpLog%20Error%20Handling.sql
+END
+Wasp Mobile Asset.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Wasp%20Mobile%20Asset.sql
+END
+Row Counts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Row%20Counts.sql
+END
+ProperCase.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/ProperCase.sql
+END
+Add New User(s).sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Add%20New%20User(s).sql
+END
+JobReport.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/JobReport.sql
+END
+Audit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Audit.sql
+END
+Define and load variables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Define%20and%20load%20variables.sql
+END
+List Role Members.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/List%20Role%20Members.sql
+END
+Sequence.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Sequence.sql
+END
+Logins with bad default databases.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Logins%20with%20bad%20default%20databases.sql
+END
+Check server and database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Check%20server%20and%20database.sql
+END
+Create Procedure.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Procedure.sql
+END
+Create and Restore Database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20and%20Restore%20Database.sql
+END
+Delete Backups and History.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Delete%20Backups%20and%20History.sql
+END
+Drop Jobs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Drop%20Jobs.sql
+END
+FirstDayOfMonth Function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/FirstDayOfMonth%20Function.sql
+END
+Staging_tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Staging_tables.sql
+END
+StripTime Function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/StripTime%20Function.sql
+END
+usp_EMK3_PurchaseStatementInterface.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/usp_EMK3_PurchaseStatementInterface.sql
+END
+usp_EMK3_PurchaseStatementInterface_ByMonth.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/usp_EMK3_PurchaseStatementInterface_ByMonth.sql
+END
+Shrink Logs - All.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Shrink%20Logs%20-%20All.sql
+END
+QucikShrink.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/QucikShrink.sql
+END
+Create Procedure 2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Procedure%202.sql
+END
+db_executor.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/db_executor.sql
+END
+Create Login+User.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Login+User.sql
+END
+ASD Log.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/ASD%20Log.sql
+END
+Secure Database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Secure%20Database.sql
+END
+Server Version.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Server%20Version.sql
+END
+Sync Accounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Sync%20Accounts.sql
+END
+RaiseError.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/RaiseError.sql
+END
+Alter Table for Audit.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Alter%20Table%20for%20Audit.sql
+END
+FirstDayOfMonth.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/FirstDayOfMonth.sql
+END
+Cleanup Jobs - EIS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Cleanup%20Jobs%20-%20EIS.sql
+END
+Backup Device.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Backup%20Device.sql
+END
+Create Detach Attach Script.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Detach%20Attach%20Script.sql
+END
+Shrink Logs - Advanced.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Shrink%20Logs%20-%20Advanced.sql
+END
+Aries Archives.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Aries%20Archives.sql
+END
+List Role Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/List%20Role%20Permissions.sql
+END
+Buffers.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Buffers.sql
+END
+Create Detach Attach Scropt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Detach%20Attach%20Scropt.sql
+END
+Fragmentation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Fragmentation.sql
+END
+Dump transactions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Dump%20transactions.sql
+END
+Set all SIMPLE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Set%20all%20SIMPLE.sql
+END
+Schema Ownership.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Schema%20Ownership.sql
+END
+Create Scalar Function.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20Scalar%20Function.sql
+END
+Script User Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Script%20User%20Permissions.sql
+END
+Synonyms.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Synonyms.sql
+END
+DB Sizes.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/DB%20Sizes.sql
+END
+Database Recovery Model.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Database%20Recovery%20Model.sql
+END
+AriesArchive_Alt.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/AriesArchive_Alt.sql
+END
+Delete Jobs that won't Drop.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Delete%20Jobs%20that%20won't%20Drop.sql
+END
+Script Server Logins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Script%20Server%20Logins.sql
+END
+Quick Permissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Quick%20Permissions.sql
+END
+Cursor through tables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Cursor%20through%20tables.sql
+END
+Who is connected.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Who%20is%20connected.sql
+END
+Rename A SQL Server.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Rename%20A%20SQL%20Server.sql
+END
+RowCount.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/RowCount.sql
+END
+First Day of Month.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/First%20Day%20of%20Month.sql
+END
+dbMail Notify.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/dbMail%20Notify.sql
+END
+Shrink Logs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Shrink%20Logs.sql
+END
+Date with no time.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Date%20with%20no%20time.sql
+END
+Version.sql
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Version.sql
+END
+Detach All Databases.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Detach%20All%20Databases.sql
+END
+Send Mail.sql
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Send%20Mail.sql
+END
+Check Logins and Users.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Check%20Logins%20and%20Users.sql
+END
+First Monday.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/First%20Monday.sql
+END
+SMT_Kingdom Database.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/SMT_Kingdom%20Database.sql
+END
+Extract User Security.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Extract%20User%20Security.sql
+END
+Security reporting.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Security%20reporting.sql
+END
+RowCounts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/RowCounts.sql
+END
+sp_generate_inserts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/sp_generate_inserts.sql
+END
+Create SQL Login.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Create%20SQL%20Login.sql
+END
+Shrink All Logs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Shrink%20All%20Logs.sql
+END
+ASD Error Report.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/ASD%20Error%20Report.sql
+END
+Delete All Users.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Delete%20All%20Users.sql
+END
+Clone DB Role Security.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/RajMandalia/!svn/ver/25/_Raj's%20Code%20Snippets/Clone%20DB%20Role%20Security.sql
+END
