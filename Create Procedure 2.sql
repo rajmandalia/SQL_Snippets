@@ -35,7 +35,7 @@ go
 create procedure <Procedure Name, varchar, cp_>
 
 	<Parameters, varchar, /* Params */>, 
-	@ResultID int output, \
+	@ResultID int output, 
 	@ResultMsg varchar(500) output
 
 as
