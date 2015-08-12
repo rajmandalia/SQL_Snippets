@@ -1,2 +1,0 @@
---SELECT 'BACKUP DATABASE [' + name + '] TO  DISK = N''' + 'G:\UpgradeBackups\' + name + '.BAK'' WITH  COPY_ONLY, NOFORMAT, INIT, NAME = N''' + name + ' Backup'', SKIP, NOREWIND, NOUNLOAD,  STATS = 10'
---FROM sys.databases
